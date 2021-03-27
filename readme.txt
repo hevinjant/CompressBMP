@@ -1,4 +1,5 @@
-Compress BMP
+Description:
+A command-line terminal program that compresses and decompresses a BMP image file.
 
 How to run the program:
 - open command line terminal, and go to the project directory.
