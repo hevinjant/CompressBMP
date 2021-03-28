@@ -6,7 +6,13 @@ How to run the program:
 - run 'g++ task1.cpp'.
 - run './a.out [flag] [filename] [password]'.
 
-Instructions:
-- a password is a must, and should be of 6 characters.
-- set the flag to 'g' for gray scale or 'c' for color.
+Command-line arguments:
+  flag:
+  - c       color
+  - f       grayscale
+  filename:
+  - .bmp    to compress
+  - .hbmp   to decompress
+  password:
+  - a password is a must, and should be of 6 characters
 
