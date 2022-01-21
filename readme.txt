@@ -1,5 +1,6 @@
 Description:
 A command-line terminal program that compresses and decompresses a BMP image file.
+This project was completed in 5 days and was for one of my CS courses' midterm project.
 
 How to run the program:
 - open command line terminal, and go to the project directory.
